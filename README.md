@@ -1,3 +1,5 @@
+### :construction: Under Construction :construction: ###
+
 ### Hi, I'm Brian 👋
 
 I'm a software engineer with a passion for crypto and fintech.
@@ -26,6 +28,7 @@ Learning crypto. Specifically, diving into Solidity at the moment.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="salesforce" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </p>
 .
 <!--
