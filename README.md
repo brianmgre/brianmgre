@@ -11,7 +11,6 @@ Learning crypto. Specifically, diving into Solidity at the moment.
 
 ### :envelope: Socials
 - [LinkedIn](https://www.linkedin.com/in/briangregorius/)
-- [Twitter](https://twitter.com/brianmgreg)
 
 
 
